@@ -1,0 +1,6 @@
+dotenv
+fastapi
+lmql
+pydantic
+starlette
+uvicorn[standard]
